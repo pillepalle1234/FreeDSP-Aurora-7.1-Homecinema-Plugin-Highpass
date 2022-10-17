@@ -4,3 +4,4 @@ I needed one since my subwoofers are ported.
 Raphael created this plugin for me where there is a highpass filter in the Subwoofer channel instead of a lowpass filter.
 
 Furthermore all the filters (low Shelf, EQ, high Shelf, High pass) for the subwoofer channel are now applied after the summation.
+See schematics for more infos on this.
