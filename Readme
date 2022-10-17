@@ -1,4 +1,4 @@
-The 7.1 Homecinema Plugin provided by Raphael (auverdion) has no High pass filter included.
+The 7.1 Homecinema Plugin provided by Raphael (auverdion) has no High pass filter included for the subwoofer channel.
 I needed one since my subwoofers are ported.
 
 Raphael created this plugin for me where there is a highpass filter in the Subwoofer channel instead of a lowpass filter.
